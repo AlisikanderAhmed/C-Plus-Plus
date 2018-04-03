@@ -28,4 +28,4 @@
 ### Simple C++ Program to demonstrate Friend Functions in C++ 
 **----------------------------------------------Example Input----------------------------------------------**
 
-![Alt text](https://github.com/AlisikanderAhmed/C-Plus-Plus/blob/master/Images/FriendClass.jpg)
+![Alt text](https://github.com/AlisikanderAhmed/C-Plus-Plus/blob/master/Images/FriendFunction.jpg)
