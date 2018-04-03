@@ -1,5 +1,5 @@
 // Alisikander Ahmed
-// A cpp program to allow users to insert, delete and search linked lists.
+// A CPP program to allow users to insert, delete and search linked lists.
 
 #include<iostream>
 

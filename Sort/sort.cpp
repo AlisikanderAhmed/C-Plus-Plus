@@ -1,6 +1,6 @@
 // Alisikander Ahmed
-// A cpp program to take unsorted array from user and use bubble sort and selection sort to sort the array.
-// Also allow user to binarySearch.
+// A CPP program to take unsorted array from user and uses bubble sort and selection sort to sort the array.
+// Also allow user to binary search to search the array.
 
 #include <iostream>
 #include <vector>
