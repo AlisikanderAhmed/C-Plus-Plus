@@ -29,3 +29,16 @@
 **----------------------------------------------Example Input----------------------------------------------**
 
 ![Alt text](https://github.com/AlisikanderAhmed/C-Plus-Plus/blob/master/Images/FriendFunction.jpg)
+
+## [EuroToCad](https://github.com/AlisikanderAhmed/C-Plus-Plus/tree/master/EuroToCad) 
+### A C++ program allowing users to convert currencies using two classes Euro and CanadianDollar. Users can make their own conversion function using given words.
+**----------------------------------------------Example Input----------------------------------------------**
+
+![Alt text](https://github.com/AlisikanderAhmed/C-Plus-Plus/blob/master/Images/EuroToCad.jpg)
+![Alt text](https://github.com/AlisikanderAhmed/C-Plus-Plus/blob/master/Images/EuroToCad2.jpg)
+
+## [Formatting](https://github.com/AlisikanderAhmed/C-Plus-Plus/tree/master/Formatting) 
+### A C++ Program that take input from the user (Item Code, Quantity, and Price) and formats and justifies the information accordingly.
+**----------------------------------------------Example Input----------------------------------------------**
+
+![Alt text](https://github.com/AlisikanderAhmed/C-Plus-Plus/blob/master/Images/Formatting.jpg)
