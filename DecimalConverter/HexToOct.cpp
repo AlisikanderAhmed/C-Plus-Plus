@@ -1,5 +1,5 @@
-//Ali Ahmed
-//Coverts the following decimals into Hexadecimal and into Octal, 85,25,153,251,458.
+// Alisikander Ahmed
+// Write a C++ Program to declare two classes Euro and CanadianDollar. Declare objects of both the classes. Convert euro to dollars and vice versa. Perform conversion using user-defined conversion functions and appropriate exception handling concepts.
 
 #include <iostream>
 #include <string>
