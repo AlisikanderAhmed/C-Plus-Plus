@@ -10,13 +10,13 @@
 ### C++ LinkedList Program
 **----------------------------------------------Example Input----------------------------------------------**
 
-![Alt text](https://github.com/AlisikanderAhmed/C-Plus-Plus/blob/master/Images/HexToDec.jpg)
+![Alt text](https://github.com/AlisikanderAhmed/C-Plus-Plus/blob/master/Images/LinkedList.jpg)
 
 ## [Sort](https://github.com/AlisikanderAhmed/C-Plus-Plus/tree/master/Sort) 
 ### C++ Selection Sort and Bubble Sort Program
 **----------------------------------------------Example Input----------------------------------------------**
 
-![Alt text](https://github.com/AlisikanderAhmed/C-Plus-Plus/blob/master/Images/HexToDec.jpg)
+![Alt text](https://github.com/AlisikanderAhmed/C-Plus-Plus/blob/master/Images/Sort.jpg)
 
 ## [Matrix](https://github.com/AlisikanderAhmed/C-Plus-Plus/tree/master/Matrix) 
 ### C++ Matrix Program, Allows for Matrix Operations
@@ -28,4 +28,4 @@
 ### Simple C++ Program to demonstrate Friend Functions in C++ 
 **----------------------------------------------Example Input----------------------------------------------**
 
-![Alt text](https://github.com/AlisikanderAhmed/C-Plus-Plus/blob/master/Images/HexToDec.jpg)
+![Alt text](https://github.com/AlisikanderAhmed/C-Plus-Plus/blob/master/Images/FriendClass.jpg)
