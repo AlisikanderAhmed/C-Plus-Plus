@@ -1,3 +1,3 @@
 # C++ Decimal to Hexadecimal & Octal Converter
 
-PastedGraphic-1.tiff
+![Alt text](https://github.com/AlisikanderAhmed/C-Plus-Plus/blob/master/Images/HexToDec.jpg "Example Input")
